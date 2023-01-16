@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AB-Flais
-- I'm studying the double degree Ingeniería informática + Administración de empresas (I'm sorry, I don't know what they are called in English)
-- I'm in the first year
-- I'm 18 years old
-- Currently, I'm learning to code in c++
-- I know the basics of SQL, HTML, CSS and python though
+- I'm studying the double degree Computer Science + Business Administration
+- I'm in the second year
+- I'm 19 years old
+- Currently, I'm learning to code in Java and Javascript
+- I know the basics of SQL, HTML, CSS, c++ and python though
