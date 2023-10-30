@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AB-Flais
+- 👋 Hi, I’m @AB-Flies
 - I'm studying the double degree Computer Science + Business Administration
 - I'm in the second year
 - I'm 19 years old
