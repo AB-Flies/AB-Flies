@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @AB-Flies
 - I am studying the double degree Computer Science + Business Administration (currently in the third year)
-- I am 20 years old
-- Currently, I am learning to code in Java and Javascript
-- I know the basics of SQL, HTML, CSS, c++ and python though
+- At the moment, I am learning to code in Java and JavaScript. I know the basics of SQL, HTML, CSS, c++ and python though
